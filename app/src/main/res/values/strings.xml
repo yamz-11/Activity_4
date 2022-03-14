@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Activity_4</string>
+    <string name="tEmail">Email</string>
+    <string name="tPassword">Password</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="data_login">Data Login</string>
+    <string name="tnama">Nama :</string>
+    <string name="txnama">Ini adalah nama</string>
+    <string name="tpassword">Password :</string>
+    <string name="txpassword">Ini adalah Password</string>
+    <string name="password">Password :</string>
+    <string name="nama">Nama :</string>
+    <string name="mdaftar">Pendaftaran</string>
+    <string name="ldaftar">Daftar</string>
+    <string name="enama">Masukkan Nama</string>
+    <string name="eemail">Masukkan Email</string>
+    <string name="epass">Massukan Password</string>
+    <string name="erepass">Massukan Password Kembali</string>
+    <string name="ealamat">Massukan Alamat</string>
+</resources>
